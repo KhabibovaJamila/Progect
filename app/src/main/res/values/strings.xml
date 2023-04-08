@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My SmartLab</string>
+    <string name="screen1">Анализы</string>
+    <string name="screen2">Уведомления</string>
+    <string name="screen3">Мониторинг</string>
+    <string name="screen1desc">Экспресс сбор и получение проб</string>
+    <string name="screen2desc">Вы быстро узнаете о результатах</string>
+    <string name="screen3desc">Наши врачи всегда
+        наблюдают за вашими
+        показателями здоровья</string>
 </resources>
