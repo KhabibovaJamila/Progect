@@ -1,4 +1,4 @@
-package com.example.mysmartlab;
+package com.example.mysmartlab.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
@@ -8,6 +8,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.example.mysmartlab.Adapter.OnBoardAdapter;
+import com.example.mysmartlab.R;
 
 public class OnBoardActivity extends AppCompatActivity {
 

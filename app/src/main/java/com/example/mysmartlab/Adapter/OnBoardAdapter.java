@@ -1,4 +1,4 @@
-package com.example.mysmartlab;
+package com.example.mysmartlab.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
+
+import com.example.mysmartlab.R;
 
 public class OnBoardAdapter extends PagerAdapter {
     Context context;
