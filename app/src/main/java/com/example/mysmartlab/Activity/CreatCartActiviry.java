@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.mysmartlab.AnalyzeActivity;
 import com.example.mysmartlab.R;
 
 public class CreatCartActiviry extends AppCompatActivity {

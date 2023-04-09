@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+      <item
+          android:id="@+id/one"
+
+          android:title="Анализы"
+          android:icon="@drawable/_______">
+
+     </item>
+    <item
+        android:id="@+id/two"
+
+        android:title="Результаты"
+        android:icon="@drawable/_________">
+
+    </item>
+    <item
+        android:id="@+id/three"
+
+        android:title="Поддержка"
+        android:icon="@drawable/__________">
+
+    </item>
+    <item
+        android:id="@+id/four"
+
+        android:title="Профиль"
+        android:icon="@drawable/____________">
+
+    </item>
+</menu>
